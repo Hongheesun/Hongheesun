@@ -1,6 +1,6 @@
 
 
-## <i> 🌞 What a nice day to code 🌞</i>
+## <i> What a nice day to code 🌞</i>
 
 #### Skill
 
