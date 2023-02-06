@@ -1,13 +1,13 @@
-<div align="center">
 
-### <i> 🌞 What a nice day to code 🌞</i>
-----
+
+## <i> 🌞 What a nice day to code 🌞</i>
+
 #### Skill
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=FFFFFF)<br>
-![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=FFFFFF)
 ![StyledComponents](https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white)
 
@@ -21,5 +21,5 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
-</div>
+
 
